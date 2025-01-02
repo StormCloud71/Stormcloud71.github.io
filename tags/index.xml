@@ -1,0 +1,15 @@
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+   <title>Tags on Ankaragon&#39;s home page</title>
+   <link>https://stormcloud71.github.io/tags/</link>
+   <description>Recent content in Tags on Ankaragon&#39;s home page</description>
+   <generator>Hugo -- gohugo.io</generator>
+   <language>en</language>
+   <copyright>Copyright &amp;copy; 2025 - Ankaragon the dark</copyright>
+   
+       <atom:link href="https://stormcloud71.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+   
+   
+ </channel>
+</rss>
